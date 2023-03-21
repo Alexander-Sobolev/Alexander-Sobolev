@@ -8,6 +8,6 @@
 # My stack
 
 
-|              Android-studio               | Angular |                Javascript                 | Swift | SwiftUI |             Kotlin             |               Nodejs               |                React                |               Allure Testops                |             Telegram              |
+|              Android-studio               | Angular |                Javascript                 | Swift | SwiftUI |             Kotlin             |               Nodejs               |                React                |               Webstorm                |             Telegram              |
 |:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|:---------------------------------:|
-| ![Android-studio](/Android-studio.png) | ![Angular](/Angular.png) | ![Javascript](/Javascript.png) | ![Swift](/Swift.png) | ![SwiftUI](/SwiftUI.png) | ![Kotlin](/Kotlin.png) | ![Nodejs](/Nodejs.png) | ![React](/React.png) | ![AllureTestOps](/images/AllureTestOps.png) | ![Telegram](/images/Telegram.png) |
+| ![Android-studio](/Android-studio.png) | ![Angular](/Angular.png) | ![Javascript](/Javascript.png) | ![Swift](/Swift.png) | ![SwiftUI](/SwiftUI.png) | ![Kotlin](/Kotlin.png) | ![Nodejs](/Nodejs.png) | ![React](/React.png) | ![Webstorm](/Webstorm.png) | ![Telegram](/images/Telegram.png) |
