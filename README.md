@@ -10,4 +10,4 @@
 
 |              React               | Angular |                Javascript                 | Swift | SwiftUI |             Kotlin             |               Nodejs               |                Android                |               Webstorm                |             Xcode              |
 |:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|:---------------------------------:|
-| ![React](/React.png) | ![Angular](/Angular.png) | ![Javascript](/Javascript.png) | ![Swift](/Swift2.png) | ![SwiftUI](/SwiftUI.png) | ![Kotlin](/Kotlin.png) | ![Nodejs](/Nodejs.png) | ![Android-studio](/Android-studio.png) | ![Webstorm](/Webstorm.png) | ![Xcode](/Xcode.png) |
+| ![React](/React.png) | ![Angular](/Angular.png) | ![Javascript](/Javascript.png) | ![Swift](/Swift.png) | ![SwiftUI](/SwiftUI.png) | ![Kotlin](/Kotlin.png) | ![Nodejs](/Nodejs.png) | ![Android-studio](/Android-studio.png) | ![Webstorm](/Webstorm.png) | ![Xcode](/Xcode.png) |
