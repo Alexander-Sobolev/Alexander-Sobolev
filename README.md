@@ -8,6 +8,6 @@
 # My stack
 
 
-|              React               | Angular |                Javascript                 | npm | SwiftUI |             Kotlin             |               Nodejs               |                Android                |               Webstorm                |             Xcode              |
+|              React               | Angular |                Javascript                 | npm | SwiftUI |             Kotlin             |               Node.js               |                Android                |               Webstorm                |             Xcode              |
 |:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|:---------------------------------:|
 | ![React](/React.png) | ![Angular](/Angular.png) | ![Javascript](/Javascript.png) | ![NPM](/npm.png) | ![SwiftUI](/SwiftUI.png) | ![Kotlin](/Kotlin.png) | ![Nodejs](/Nodejs.png) | ![Android-studio](/Android-studio.png) | ![Webstorm](/Webstorm.png) | ![Xcode](/Xcode.png) |
