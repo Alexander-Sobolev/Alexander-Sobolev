@@ -35,7 +35,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/668/668292.png" title="swift" alt="swift" width="40" height="40"/>&nbsp
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png" title="kotlin" alt="kotlin" width="38" height="40"/>&nbsp
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png" title="kotlin" alt="kotlin" width="38" height="39"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="html" alt="html" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
