@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-I am an iOS, Android, Frontend and Backend developer.
+I am an iOS, Android, Frontend and Backend developer. I can also work with cross-platform solutions such as Kotlin multiplatform mobile and React native.
 
 - :telescope: Looking for the best architectural approaches.
 
