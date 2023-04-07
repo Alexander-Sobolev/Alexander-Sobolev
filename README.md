@@ -46,3 +46,16 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
 </div>
 
 ---
+      
+ ### 🛠 Development tools:
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Xcode_14_icon.png" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
+</div>
+
+---
