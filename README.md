@@ -59,7 +59,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="38"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="Figma" alt="Figma" width="40" height="38"/>&nbsp;
 </div>
 
 ---
