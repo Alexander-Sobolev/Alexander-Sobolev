@@ -1,13 +1,38 @@
-# You are welcome!
+# Hi, I'm Alex!
 
-[![nightCoffe GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexander-Sobolev&show_icons=true&theme=radical)](https://github.com/nightCoffe/github-readme-stats)
+---
 
+### :man_technologist: Обо мне:
 
+I am an iOS, Android, Frontend and Backend developer.
 
+- :telescope: Looking for the best architectural approaches.
 
-# My stack
+- :zap: I can develop an application for any platform.
 
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-sobolevaleksandr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alexander_IOS_DEV) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sobolev.ios.developer@gmail.com)
 
-|              React               | Angular |                Javascript                 | npm | SwiftUI |             Kotlin             |               Node.js               |                Android                |               Webstorm                |             Xcode              |
-|:-------------------------------:|:----:|:-------------------------------------:|:------:|:--------:|:-------------------------------:|:-----------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|:---------------------------------:|
-| ![React](/React.png) | ![Angular](/Angular.png) | ![Javascript](/Javascript.png) | ![NPM](/npm.png) | ![SwiftUI](/SwiftUI.png) | ![Kotlin](/Kotlin.png) | ![Nodejs](/Nodejs.png) | ![Android-studio](/Android-studio.png) | ![Webstorm](/Webstorm.png) | ![Xcode](/Xcode.png) |
+---
+
+### 🤝 Social media:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/aleksander-sobolev-ios-developer/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/Alexander_IOS_DEV" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    <a href="https://www.facebook.com/profile.php?id=100086559087040" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" alt="F Badge"/>
+  </div>
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/668/668292.png" title="swift" alt="swift" width="40" height="40"/>&nbsp;
+</div>
+
+---
