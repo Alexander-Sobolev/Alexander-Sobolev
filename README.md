@@ -61,11 +61,12 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
 </div>
 
 ---
+      
+      <p align="left"> <a href="https://www.github.com/Alexander-Sobolev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Badges
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexander-Sobolev&show_icons=true&theme=radical" alt="Github stats" />
-    </td>
-  </tr>
-</table>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Alexander-Sobolev"><img src="https://github-readme-stats.vercel.app/api?username=Alexander-Sobolev&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alexander-Sobolev's GitHub stats" /></a>
+
+<a href="https://github.com/Alexander-Sobolev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-Sobolev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
