@@ -31,11 +31,11 @@ I am an iOS, Android, Frontend and Backend developer.
 ### 💻 Technologies:
 
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/668/668292.png" title="swift" alt="swift" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" title="kotlin" alt="kotlin" width="38" height="38"/>&nbsp;
 </div>
 
 ---
