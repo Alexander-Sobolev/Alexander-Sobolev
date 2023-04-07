@@ -31,7 +31,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
 ### 💻 Technologies:
 
 <div>
-  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp
@@ -58,7 +58,12 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://img.icons8.com/fluency/512/visual-studio.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gguu6mi2r2rzma7efuo9" title="Proxyman" alt="Proxyman" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/fluency/512/sublime-text.png" title="Sublime" alt="Sublime" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="38"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="38"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="38"/>&nbsp;
 </div>
 
 ---
