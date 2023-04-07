@@ -41,9 +41,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/3459/3459528.png" title="react" alt="react" width="40" height="40"/>&nbsp
   <img src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  
-  <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" title="we" alt="we" width="40" height="40"/>&nbsp;
+  <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 </div>
 
 ---
