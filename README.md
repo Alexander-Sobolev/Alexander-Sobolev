@@ -10,7 +10,7 @@ I am an iOS, Android, Frontend and Backend developer.
 
 - :zap: I can develop an application for any platform.
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-sobolevaleksandr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alexander_IOS_DEV) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sobolev.ios.developer@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-sobolevalexander-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alexander_IOS_DEV) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sobolev.ios.developer@gmail.com)
 
 ---
 
@@ -35,7 +35,13 @@ I am an iOS, Android, Frontend and Backend developer.
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/668/668292.png" title="swift" alt="swift" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" title="kotlin" alt="kotlin" width="38" height="38"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" title="kotlin" alt="kotlin" width="38" height="38"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" title="html" alt="html" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  
+  
+  <img src="https://cdn-icons-png.flaticon.com/512/668/668292.png" title="we" alt="we" width="40" height="40"/>&nbsp;
 </div>
 
 ---
