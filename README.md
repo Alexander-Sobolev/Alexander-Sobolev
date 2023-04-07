@@ -57,7 +57,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://img.icons8.com/fluency/512/visual-studio.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gguu6mi2r2rzma7efuo9" title="Proxyman" alt="Proxyman" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/fluency/512/sublime-text.png" title="Sublime" alt="Sublime" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="38"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="36"/>&nbsp;
 </div>
 
 ---
