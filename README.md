@@ -40,7 +40,7 @@ I am an iOS, Android, Frontend and Backend developer.
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" title="react" alt="react" width="40" height="40"/>&nbsp
-  <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" title="reactnative" alt="reactnative" width="40" height="40"/>&nbsp
+  <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" title="reactnative" alt="reactnative" width="60" height="40"/>&nbsp
   
   <img src="https://cdn-icons-png.flaticon.com/128/3459/3459528.png" title="we" alt="we" width="40" height="40"/>&nbsp;
 </div>
