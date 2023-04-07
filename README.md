@@ -70,7 +70,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=Alexander-Sobolev&show_icons=true&theme=radical" alt="Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexander-Sobolev=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexander-Sobolev=compact&theme=vision-friendly-dark " />
     </td>
   </tr>
 </table>
