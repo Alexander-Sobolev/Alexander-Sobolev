@@ -61,3 +61,16 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
 </div>
 
 ---
+      
+ ### ⚙️ GitHub statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Alexander-Sobolev&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alexander-Sobolev=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
