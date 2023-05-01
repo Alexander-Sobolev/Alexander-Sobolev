@@ -41,7 +41,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://img.icons8.com/color/512/mongodb.png" title="mongodb" alt="mongodb" width="42" height="42"/>&nbsp
   <img src="https://img.icons8.com/color/512/tailwindcss.png" title="tailwind" alt="tailwind" width="42" height="42"/>&nbsp
   <img src="https://img.icons8.com/color/512/firebase.png" title="firebase" alt="firebase" width="42" height="42"/>&nbsp
-  <img src="[https://img.icons8.com/color/512/firebase.png](https://img.icons8.com/?size=512&id=cdYUlRaag9G9&format=png)" title="docker" alt="docker" width="42" height="42"/>&nbsp
+  <img src="https://img.icons8.com/?size=512&id=cdYUlRaag9G9&format=png" title="docker" alt="docker" width="42" height="42"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
 </div>
 
