@@ -58,7 +58,6 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://img.icons8.com/color/512/webstorm.png" title="WebStorm" alt="WebStorm" width="42" height="42"/>&nbsp;
   <img src="https://img.icons8.com/fluency/512/visual-studio.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/fluency/512/sublime-text.png" title="Sublime" alt="Sublime" width="42" height="42"/>&nbsp;
-  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gguu6mi2r2rzma7efuo9" title="Proxyman" alt="Proxyman" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="38"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="git" alt="git" width="40" height="40"/>&nbsp;
