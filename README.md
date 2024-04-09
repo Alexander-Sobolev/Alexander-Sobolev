@@ -66,7 +66,7 @@ I am an iOS, Android, Frontend and Backend developer. I can also work with cross
   <img src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=BdXyMvhDoHm0&format=png" title="wordpress" alt="wordpress" width="44" height="44"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="Figma" alt="Figma" width="40" height="38"/>&nbsp;
-  <img src="[https://seeklogo.com/vector-logo/274050/unity](https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png)" title="Unity" alt="Unity" width="40" height="38"/>&nbsp;
+  <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" title="Unity" alt="Unity" width="40" height="38"/>&nbsp;
 </div>
 
 ---
