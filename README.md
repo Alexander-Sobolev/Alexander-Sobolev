@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me:
 
-I am an iOS, Android, Frontend and Backend developer. I can also work with cross-platform solutions such as Kotlin multiplatform mobile and React native.
+I am an iOS, Android, Unity, Frontend and Backend developer. I can also work with cross-platform solutions such as Kotlin multiplatform mobile and React native.
 
 - :telescope: Looking for the best architectural approaches.
 
